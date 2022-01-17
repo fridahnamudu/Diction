@@ -13,7 +13,7 @@ This is  an application which, when given a web page will download the text on i
 
 
 1.  Python3 program for a word frequency
-# counter after crawling/scraping a web-page
+2.counter after crawling/scraping a web-page
 import requests
 import bs4 - Beautiful Soup which we use it as bs4 is a Python library for pulling data out of HTML and XML files. 
 It works with a parser to provide idiomatic ways of navigating, searching, and modifying the parse tree. 
